@@ -1,0 +1,5 @@
+- Name is Seyhun Ogulcan KERCEK  
+- Is currently studying Mechatronics Engineering
+- Hits every shot he don't miss
+- Enjoys as much as he can
+- Leaves
