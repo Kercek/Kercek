@@ -1,5 +1,5 @@
 - Name is Seyhun Ogulcan KERCEK  
 - Currently studies Mechatronics Engineering
 - Hits every shot he don't miss
-- Enjoys as much as he can
+- Meanwhile, uses Dalin.
 - Leaves
