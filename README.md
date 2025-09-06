@@ -1,5 +1,6 @@
-- Name is Seyhun Ogulcan KERCEK  
-- Currently studies Mechatronics Engineering
-- Hits every shot he don't miss
-- Meanwhile, uses Dalin.
-- Leaves
+- 20 year old student at Yildiz Technical University
+- Currently studies Electrical Engineering
+- Highly interested in embedded systems, Arduinos, electronics, Raspberry Pis.
+- Interested in C and C++ for programming for Arduino and OOP.
+- Always wondering if Will Smith will smith Will Smith.
+- He always does. Will Smith smiths Will Smith.
